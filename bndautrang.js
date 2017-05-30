@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'phuongguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://www.facebook.com/PiaggioVespaVietNam/' target='_blank'><img src='http://www.topcom.com.vn/data/upload/VectorAbstractBlue7BDE97.jpg width='500px'/><br/>Mua xe vespa</a>. LH: 0988.768.399 <h2><a class='close-phuongnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://www.facebook.com/PiaggioVespaVietNam/' target='_blank'><img src='http://www.topcom.com.vn/data/upload/VectorAbstractBlue7BDE97.jpg' width='500px'/><br/>Mua xe vespa</a>. LH: 0988.768.399 <h2><a class='close-phuongnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').phuongnguyen(jQuery('#myModal').data());
 		}
 });
